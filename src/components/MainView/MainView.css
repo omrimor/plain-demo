@@ -1,0 +1,9 @@
+.mainview {
+    flex-basis: 70%;
+    height: 93vh;
+    background: #F3F3F3;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,50 @@
+.card__wrapper {
+    width: 80%;
+    height: 70vh;
+    background: white;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.card__header {
+    height: 20%;
+    background: #5390EA;
+    color: #fff;
+    padding: 10px;
+}
+
+.card__header > span {
+    font-size: 20px;
+}
+
+.card__content {
+    display: flex;
+    flex-direction: row;
+    height: 80%;
+    background: #fff;
+}
+
+.card__content__details {
+    flex-basis: 60%;
+    padding: 10px;
+}
+
+.card__content__actions {
+    flex-basis: 40%;
+    border-left: 1px solid #F2F2F2;
+    padding: 10px;
+}
+
+.card__content__list {
+    padding: 0;
+    margin: 0;
+}
+
+.card__content__list > li {
+    display: block;
+    background: #FAFBFF;
+    margin-bottom: 2px;
+    height: 35px;
+    line-height: 35px;
+    color: #888584;
+    padding-left: 10px;
+}

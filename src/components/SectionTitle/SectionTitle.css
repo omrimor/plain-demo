@@ -1,0 +1,10 @@
+.section-title {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.section-title > span {
+    text-transform: uppercase;
+    color: #5390EA;
+}

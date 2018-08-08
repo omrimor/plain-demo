@@ -1,0 +1,14 @@
+.sidebar {
+    flex-basis: 30%;
+    height: 93vh;
+    background: white;
+    padding-top: 30px;
+}
+
+.sidebar__nav {
+    padding: 0;
+    margin: 20px 0 0 0;
+    width: 100%;
+}
+
+

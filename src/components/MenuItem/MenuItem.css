@@ -1,0 +1,20 @@
+.sidebar__nav-item {
+    height: 40px;
+    line-height: 40px;
+    padding-left: 20px;
+    vertical-align: middle;
+    display: flex;
+}
+
+.sidebar__nav-item:hover {
+    cursor: pointer;
+}
+
+.sidebar__nav-item > span {
+    width: 100%;
+    padding-left: 10px;
+}
+.selected-item {
+    font-weight: bold;
+    background: #E5E5E5;
+}

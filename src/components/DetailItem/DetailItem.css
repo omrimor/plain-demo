@@ -1,0 +1,17 @@
+.detail-item__label {
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    display: block;
+    color: #CBC2CD;
+}
+
+.detail-item__field {
+    display: block;
+    background: #FAFBFF;
+    margin-bottom: 15px;
+    height: 35px;
+    line-height: 35px;
+    color: #888584;
+    padding-left: 10px;
+}

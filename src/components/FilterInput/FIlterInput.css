@@ -1,0 +1,20 @@
+.sidebar__nav__filter {
+    width: 90%;
+    height: 30px;
+    margin: 0 auto;
+    position: relative;
+    font-size: 16px;
+}
+
+.sidebar__nav__filter__input {
+    height: inherit;
+    width: 100%;
+    background: #fafafa;
+    border: none;
+}
+
+.sidebar__nav__filter__icon {
+    position: absolute;
+    right: 0;
+    top: 5px;
+}
